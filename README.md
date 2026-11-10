@@ -139,6 +139,14 @@ IV ежегодная национальная конференция
 - GitHub Copilot Fundamentals (GH-300) — [Посмотреть сертификат](assets/certificates/github-copilot.pdf)
 - Artificial Intelligence (AI) Leadership — [Посмотреть сертификат](assets/certificates/ai-leadership.pdf)
 
+
+**DataCamp · Пройденные курсы**
+
+- [Название курса 1](https://www.datacamp.com/completed/statement-of-accomplishment/course/568322f6835dce919a94d28c7be613b0f2d43596)
+- [Название курса 2](https://www.datacamp.com/completed/statement-of-accomplishment/course/256d0fd830e82eca4ea3a50506cb4bd3081f0fc9)
+- [Название курса 3](https://www.datacamp.com/completed/statement-of-accomplishment/course/237c1e9b136522f882c2ff981f22f4dc6619fc0e)
+
+
 ### Цифровые бейджи Credly
 
 - [Цифровой бейдж №1](https://www.credly.com/badges/5bfee22c-4104-4bb2-9e7e-fd010eca07e2/public_url)
